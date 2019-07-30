@@ -10,4 +10,4 @@ How to use
 5.	`collectiontest` is your collection name to test CRUD feature
 6. To test it just run `go run main.go` or with file config specified `go run main.go -config yourconfigfilelocation`.
 
-![Demo](static/demo.png)
+![Demo](static/demo.PNG)
